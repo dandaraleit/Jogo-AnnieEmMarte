@@ -12,11 +12,11 @@ class Jogo {
     vida = new Vida(fita.configuracoes.vidaMaxima, fita.configuracoes.vidaInicial);
     
   
-  personagem = new Personagem(matrizPersonagem, imagemPersonagem, 0, 80, 110, 135, 648, 630);
+  personagem = new Personagem(matrizPersonagem, imagemPersonagem, 0, 90, 110, 135, 648, 630);
   
-  const inimigo = new Inimigo(matrizInimigo, imagemInimigo, width - 52, 80, 52, 52, 104, 104, 10);
+  const inimigo = new Inimigo(matrizInimigo, imagemInimigo, width - 52, 90, 52, 52, 104, 104, 10);
   
-  const inimigoTroll = new Inimigo(matrizInimigoTroll, imagemInimigoTroll, width, 55, 200, 200, 400, 400, 15);
+  const inimigoTroll = new Inimigo(matrizInimigoTroll, imagemInimigoTroll, width, 60, 200, 200, 400, 400, 15);
   
   const inimigoVoador = new Inimigo(matrizInimigoVoador, imagemInimigoVoador, width - 52, 246, 100, 75, 200, 150, 10);
   
