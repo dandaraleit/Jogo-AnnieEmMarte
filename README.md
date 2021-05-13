@@ -1,4 +1,4 @@
-# Jogo-AnnieEmMarte
+# Jogo Annie Em Marte
 
 Link para jogar: https://dandaraleite.github.io/Jogo-AnnieEmMarte/
 
